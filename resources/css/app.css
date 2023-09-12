@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-zahar {
+    background: url(../../public/img/zahar-krivtsov.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.bg-moskva-siti {
+    background: url(../../public/img/moskva-siti.jpg) no-repeat center center;
+    background-size: cover;
+    opacity: 0.6;
+}
